@@ -7,11 +7,11 @@ An Awesome Web Application showcasing my TMDB Movies.
 
 This web application serves as a TheMovieDB to display my Recent Highest IMDB Rated Movies and their information.
 
-Visit the deployed page at [Portfolio Page](https://weather-page-eight.vercel.app/) to see the live application in action.
-For the code, visit GitHub at [Portfolio Page](https://github.com/kvskm2802/TheMovieDB).
+Visit the deployed page at [TheMovieDB](https://themoviedb-wine.vercel.app/) to see the live application in action.
+For the code, visit GitHub at [TheMovieDB](https://github.com/kvskm2802/TheMovieDB).
 
 
-![Screenshot](Image.png)
+![Screenshot](image.png)
 
 
 ## Table of Contents
